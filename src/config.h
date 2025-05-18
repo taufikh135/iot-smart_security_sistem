@@ -21,8 +21,8 @@
 #define MQTT_TOPIC "test"
 
 // Wifi
-#define WIFI_SSID "aixbwis"
-#define WIFI_PASSWORD "rbetopik"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // Jarak Max dalam cm
 #define JARAK_MAX 20
